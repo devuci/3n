@@ -1,2 +1,4 @@
 # 3n
-Matlab code to filter brain connectivity networks with the ECO criterion (De Vico Fallani et al, A topological criterion to filter information in complex brain networks, Plos Comp Biol, 2017)
+Code: Matlab code to filter brain network data with the ECO criterion 
+Data: Results obtained from the brain network data 
+Ref: De Vico Fallani et al, A topological criterion to filter information in complex brain networks, Plos Comp Biol, 2017
